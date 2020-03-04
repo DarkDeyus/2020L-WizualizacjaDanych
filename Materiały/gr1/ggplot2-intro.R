@@ -1,13 +1,11 @@
 library(ggplot2)
 library(dplyr)
 
-<<<<<<< HEAD
-gd <- read.csv("./data/grants_small.csv")
 
-# aktualizacja forka
+
 
 # manipulowanie danymi
-=======
+
 gd <- read.csv("./data/grants_small.csv", stringsAsFactors = FALSE)
 # edit(gd)
 # summary(gd)
@@ -55,9 +53,6 @@ mutate(gd,
   ggplot(aes(x = institution, y = mean_budget)) +
   geom_col() +
   coord_flip()
-
-
->>>>>>> b2d119a17b8dbeb36248f7c4d7effc209b38b5d5
 
 # geometrie
 
