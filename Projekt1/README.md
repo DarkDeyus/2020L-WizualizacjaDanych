@@ -40,7 +40,14 @@ Zespół 1:
  * Karol Ulanowski
  * Michał Sokólski
  * Tomek Zalewski
-
+ 
+Zespół 2:
+ * Michał Rdzany
+ * Piotr Sowiński
+ * Maciej Wasiak
+ * Krzysztof Więcław
+ * Marcin Zakrzewski
+ 
 ### Temat 4
 
 ### Temat 5
